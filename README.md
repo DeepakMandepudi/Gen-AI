@@ -11,3 +11,5 @@ Also, We can modify the variables to let Vertex AI generate text for different u
   - { ?<variable_name> = <variable_value> }
   - example 1: https://gen-ai-665155063398.us-central1.run.app/?animal=Tiger
   - example 2: https://gen-ai-665155063398.us-central1.run.app/?animal=Flamingo
+
+To make it more fun, try refreshing or reloading the browser! You’ll see the AI generate new text with each refresh.
